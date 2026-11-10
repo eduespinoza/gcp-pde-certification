@@ -9,11 +9,12 @@ const config = {
   tagline: 'Comprehensive Curriculum, Deep Architectures, Practice Questions & Exam Blueprints',
   favicon: 'img/favicon.ico',
 
-  url: 'https://gcp-pde-guide.local',
-  baseUrl: '/',
-
-  organizationName: 'gcp-student',
-  projectName: 'gcp-pde-guide',
+  url: 'https://eduespinoza.github.io',
+  baseUrl: '/gcp-pde-certification',
+  organizationName: 'eduespinoza',
+  projectName: 'gcp-pde-certification',
+  deploymentBranch: 'gh-pages',
+  trailingSlash: false,
 
   onBrokenLinks: 'warn',
 
