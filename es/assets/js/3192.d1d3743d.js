@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkgcp_pde_study_guide||=[]).push([[3192],{3192(e,c,r){r.d(c,{createArchitectureServices:()=>s.S});var s=r(4549);r(184)}}]);
