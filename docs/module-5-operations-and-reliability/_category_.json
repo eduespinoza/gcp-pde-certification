@@ -1,0 +1,8 @@
+{
+  "label": "Module 5: Operations, Reliability, and Optimization",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "Master Section 5 (~18% of exam): Resource optimization, Airflow/DAG design, BigQuery Editions & Reservations, Troubleshooting, and Disaster Recovery."
+  }
+}

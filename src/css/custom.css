@@ -1,0 +1,142 @@
+/**
+ * Custom styles for Google Cloud PDE Study Guide
+ */
+
+:root {
+  --ifm-color-primary: #1a73e8;
+  --ifm-color-primary-dark: #1557b0;
+  --ifm-color-primary-darker: #134f9e;
+  --ifm-color-primary-darkest: #0e3b76;
+  --ifm-color-primary-light: #3b88ec;
+  --ifm-color-primary-lighter: #5496ee;
+  --ifm-color-primary-lightest: #7db1f3;
+  --ifm-code-font-size: 92%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --gcp-blue: #4285f4;
+  --gcp-red: #ea4335;
+  --gcp-yellow: #fbbc04;
+  --gcp-green: #34a853;
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #8ab4f8;
+  --ifm-color-primary-dark: #6ba0f6;
+  --ifm-color-primary-darker: #5994f5;
+  --ifm-color-primary-darkest: #2b77f1;
+  --ifm-color-primary-light: #a8c7fa;
+  --ifm-color-primary-lighter: #bbd3fc;
+  --ifm-color-primary-lightest: #e0ecfe;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-background-color: #121316;
+  --ifm-background-surface-color: #1a1c22;
+}
+
+/* Hero Section */
+.heroBanner {
+  padding: 4rem 2rem;
+  text-align: center;
+  position: relative;
+  background: radial-gradient(circle at 50% 20%, rgba(66, 133, 244, 0.15), transparent 70%);
+}
+
+.heroTitle {
+  font-size: 2.8rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  background: linear-gradient(135deg, #4285f4 0%, #34a853 50%, #fbbc04 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.heroSubtitle {
+  font-size: 1.3rem;
+  max-width: 800px;
+  margin: 0 auto 2rem auto;
+  opacity: 0.9;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+/* Feature grid */
+.featuresGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+  padding: 3rem 1rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.featureCard {
+  border-radius: 12px;
+  padding: 1.5rem;
+  border: 1px solid rgba(128, 128, 128, 0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  background-color: var(--ifm-background-surface-color);
+}
+
+.featureCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  border-color: var(--ifm-color-primary);
+}
+
+.featureBadge {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 0.8rem;
+  background: rgba(66, 133, 244, 0.15);
+  color: var(--ifm-color-primary);
+}
+
+.featureTitle {
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.featureDesc {
+  font-size: 0.95rem;
+  opacity: 0.85;
+  line-height: 1.5;
+}
+
+/* Tables styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+}
+
+table th {
+  background-color: rgba(66, 133, 244, 0.1);
+  color: var(--ifm-color-primary);
+  font-weight: 700;
+  border-bottom: 2px solid var(--ifm-color-primary);
+  padding: 0.75rem;
+}
+
+table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.15);
+}
+
+/* Question Callouts */
+blockquote {
+  border-left: 4px solid #34a853;
+  background: rgba(52, 168, 83, 0.08);
+  padding: 1rem 1.25rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1.5rem 0;
+}

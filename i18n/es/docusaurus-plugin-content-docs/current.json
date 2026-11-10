@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Module 1: Designing Data Systems (~22%)": {
+    "message": "Módulo 1: Diseño de Sistemas de Datos (~22%)",
+    "description": "The label for category 'Module 1: Designing Data Systems (~22%)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Module 2: Ingesting & Processing (~25%)": {
+    "message": "Módulo 2: Ingesta y Procesamiento (~25%)",
+    "description": "The label for category 'Module 2: Ingesting & Processing (~25%)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Module 3: Storing Data (~20%)": {
+    "message": "Módulo 3: Almacenamiento de Datos (~20%)",
+    "description": "The label for category 'Module 3: Storing Data (~20%)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Module 4: Analysis & Machine Learning (~15%)": {
+    "message": "Módulo 4: Análisis y Machine Learning (~15%)",
+    "description": "The label for category 'Module 4: Analysis & Machine Learning (~15%)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Module 5: Operations & Reliability (~18%)": {
+    "message": "Módulo 5: Operaciones y Fiabilidad (~18%)",
+    "description": "The label for category 'Module 5: Operations & Reliability (~18%)' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Exam Prep & Master Toolkit": {
+    "message": "Preparación para el Examen y Toolkit Maestro",
+    "description": "The label for category 'Exam Prep & Master Toolkit' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.doc.🚀 Exam Strategy & Blueprint": {
+    "message": "🚀 Estrategia y Plan de Estudio",
+    "description": "The label for the doc item '🚀 Exam Strategy & Blueprint' in sidebar 'tutorialSidebar', linking to the doc intro"
+  }
+}

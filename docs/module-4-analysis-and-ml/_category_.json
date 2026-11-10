@@ -1,0 +1,8 @@
+{
+  "label": "Module 4: Analysis, BI, and Machine Learning",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Master Section 4 (~15% of exam): Visualization, BI Engine, Materialized Views, Query Troubleshooting, BigQuery ML, Vector Search/RAG, and Analytics Hub."
+  }
+}

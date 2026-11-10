@@ -1,0 +1,50 @@
+{
+  "link.title.Curriculum": {
+    "message": "Currículo",
+    "description": "The title of the footer links column with title=Curriculum in the footer"
+  },
+  "link.title.Advanced & Ops": {
+    "message": "Avanzado y Operaciones",
+    "description": "The title of the footer links column with title=Advanced & Ops in the footer"
+  },
+  "link.title.Certification": {
+    "message": "Certificación",
+    "description": "The title of the footer links column with title=Certification in the footer"
+  },
+  "link.item.label.Section 1: Designing Data Systems": {
+    "message": "Sección 1: Diseño de Sistemas de Datos",
+    "description": "The label of footer link with label=Section 1: Designing Data Systems linking to /docs/module-1-designing-systems/security-and-compliance"
+  },
+  "link.item.label.Section 2: Ingesting & Processing": {
+    "message": "Sección 2: Ingesta y Procesamiento",
+    "description": "The label of footer link with label=Section 2: Ingesting & Processing linking to /docs/module-2-ingesting-processing/planning-data-pipelines"
+  },
+  "link.item.label.Section 3: Storing Data": {
+    "message": "Sección 3: Almacenamiento de Datos",
+    "description": "The label of footer link with label=Section 3: Storing Data linking to /docs/module-3-storing-data/selecting-storage-systems"
+  },
+  "link.item.label.Section 4: Analysis, BI & ML": {
+    "message": "Sección 4: Análisis, BI y ML",
+    "description": "The label of footer link with label=Section 4: Analysis, BI & ML linking to /docs/module-4-analysis-and-ml/visualization-and-bi"
+  },
+  "link.item.label.Section 5: Maintaining & Automating": {
+    "message": "Sección 5: Mantenimiento y Automatización",
+    "description": "The label of footer link with label=Section 5: Maintaining & Automating linking to /docs/module-5-operations-and-reliability/resource-optimization"
+  },
+  "link.item.label.Master Cheat Sheet": {
+    "message": "Hoja de Referencia Maestra",
+    "description": "The label of footer link with label=Master Cheat Sheet linking to /docs/exam-prep/master-cheat-sheet"
+  },
+  "link.item.label.Official Exam Guide": {
+    "message": "Guía Oficial del Examen",
+    "description": "The label of footer link with label=Official Exam Guide linking to https://cloud.google.com/certification/data-engineer"
+  },
+  "link.item.label.Practice Exam Questions": {
+    "message": "Preguntas de Práctica",
+    "description": "The label of footer link with label=Practice Exam Questions linking to /docs/exam-prep/practice-exam-questions"
+  },
+  "copyright": {
+    "message": "Plataforma de Estudio para Google Cloud Professional Data Engineer. Creada para candidatos a la certificación.",
+    "description": "The footer copyright"
+  }
+}

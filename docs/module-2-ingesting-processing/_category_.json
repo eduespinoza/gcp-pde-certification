@@ -1,0 +1,8 @@
+{
+  "label": "Module 2: Ingesting and Processing Data",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Master Section 2 (~25% of exam): Pipeline planning, Beam/Dataflow, Dataproc/Spark, Pub/Sub, Kafka, Windowing, Watermarks, Triggers, AI enrichment, and CI/CD."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Guía GCP Data Engineer",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo de Google Cloud",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Study Curriculum": {
+    "message": "Plan de Estudio",
+    "description": "Navbar item with label Study Curriculum"
+  },
+  "item.label.Cheat Sheet": {
+    "message": "Hoja de Referencia",
+    "description": "Navbar item with label Cheat Sheet"
+  },
+  "item.label.Practice Questions": {
+    "message": "Preguntas de Práctica",
+    "description": "Navbar item with label Practice Questions"
+  }
+}
